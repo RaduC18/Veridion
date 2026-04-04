@@ -1,0 +1,23 @@
+{
+  "name": "veridion_internship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dsnp/parquetjs": "^1.8.7",
+    "axios": "^1.13.6",
+    "dns": "^0.2.2",
+    "fs": "^0.0.1-security",
+    "node": "^25.8.1",
+    "puppeteer": "^24.40.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
